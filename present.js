@@ -1,6 +1,6 @@
 var to = 'Bông !';
 var gift_url = 'https://www.facebook.com/boon9minz';
-var gift_image_url = 'images/2024_03_08_14_56_IMG_0877.jpg';
+var gift_image_url = 'images/bong.png';
 
 
 
